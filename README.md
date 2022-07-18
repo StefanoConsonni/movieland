@@ -1,21 +1,21 @@
-## Movieland
+# Movieland
 
-### Table of contents
+## Table of contents
 
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
 
-### General info
+## General info
 
 A React movie app that queries the OMDB API database and renders the results of the user research. <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### General info
+## Demo
 
-A live demo version of this project can be found at https://movieland-stefano.netlify.app/
+A demo version of this project can be found at https://movieland-stefano.netlify.app/
 
-### Tech Stack
+## Tech Stack
 
 This project is created with:
 
@@ -23,7 +23,7 @@ This project is created with:
 - HTML
 - CSS
 
-### Setup
+## Setup
 
 In the project directory, you can run
 
