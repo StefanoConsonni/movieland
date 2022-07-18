@@ -11,7 +11,11 @@
 A React movie app that queries the OMDB API database and renders the results of the user research. <br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Technologies
+### General info
+
+A live demo version of this project can be found at https://movieland-stefano.netlify.app/
+
+### Tech Stack
 
 This project is created with:
 
@@ -23,11 +27,15 @@ This project is created with:
 
 In the project directory, you can run
 
-#### `npm install`
+```bash
+npm install
+```
 
 To install the dependencies package.
 
-#### `npm start`
+```bash
+npm start
+```
 
 Runs the app in development mode <br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
