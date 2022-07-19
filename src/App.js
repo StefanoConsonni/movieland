@@ -26,11 +26,11 @@ const App = () => {
 
 			<div className="search">
 				<input
-					placeholder="Search for movies"
+					placeholder="Write here and click the search icon"
 					value={searchTerm}
+					id="search-input"
 					type="text"
 					onChange={(e) => setSearchTerm(e.target.value)}
-					onClick={() => searchMovies(searchTerm)}
 				/>
 				<img src={SearchIcon} alt="search icon" onClick={() => searchMovies(searchTerm)} />
 			</div>
