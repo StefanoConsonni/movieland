@@ -19,7 +19,7 @@ A demo version of this project can be found at https://movieland-stefano.netlify
 
 This project is created with:
 
-- REACT 18
+- REACT
 - HTML
 - CSS
 
